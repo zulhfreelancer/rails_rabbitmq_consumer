@@ -3,4 +3,7 @@
 
 require_relative 'config/application'
 
+# load sneakers tasks
+require 'sneakers/tasks'
+
 Rails.application.load_tasks

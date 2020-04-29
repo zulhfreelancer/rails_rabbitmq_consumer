@@ -1,0 +1,5 @@
+{
+  "name": "rails_rabbitmq_consumer",
+  "private": true,
+  "dependencies": {}
+}
